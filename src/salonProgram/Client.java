@@ -1,3 +1,4 @@
+package salonProgram;
 
 public class Client {
     private String name;

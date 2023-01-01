@@ -1,3 +1,7 @@
+package salonProgram;
+import salonProgram.Client;
+import salonProgram.Visit;
+
 import java.util.Date;
 
 public class Salon {

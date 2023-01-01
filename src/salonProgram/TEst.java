@@ -1,3 +1,6 @@
+package salonProgram;
+
+import salonProgram.Client;
 
 import java.util.Date;
 
